@@ -1,5 +1,4 @@
 # Movie TMDB Web Page with TMDB API
-Welcome to my movie web page including the TMDB API! 
 
 ## Objetive 🎯
 - Learn to include REST API in web pages
